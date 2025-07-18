@@ -138,24 +138,24 @@ tools:
     description: Структурируйте и форматируйте свои запросы SQL, делая их более читаемыми (поддерживаются различные диалекты SQL).
 
   benchmark-builder:
-    title: Конструктор бенчмарков
-    description: Легко сравнивайте время выполнения задач с помощью этого простого онлайн-инструмента.
+    title: Конструктор тестов
+    description: Легко сравнивайте время выполнения задач с помощью этого простого онлайн инструмента.
 
   git-memo:
     title: Шпаргалка по Git
-    description: Git — это система управления версиями. С этой шпаргалкой у вас будет быстрый доступ к самым распространённым командам Git.
+    description: Git является системой управления версиями. С этой шпаргалкой у вас будет быстрый доступ к самым распространённым командам Git.
 
   slugify-string:
-    title: Создание "слаг"-строк
-    description: Преобразуйте строку в безопасный для URL, имени файла или идентификатора формат.
+    title: Функция Slugify онлайн
+    description: Преобразуйте URL, имя файла или идентификатор в слаг (слова в нижнем регистре, разделённые дефисами).
 
   encryption:
-    title: Шифрование / дешифрование текста
-    description: Шифруйте текст и дешифруйте зашифрованные сообщения с использованием алгоритмов (AES, TripleDES, Rabbit, RC4 и др.).
+    title: Шифровка / дешифровка текста
+    description: Шифруйте текст и дешифруйте зашифрованные сообщения с использованием алгоритмов AES, TripleDES, Rabbit или RC4.
 
   random-port-generator:
     title: Генератор случайных портов
-    description: Генерируйте случайные номера портов вне диапазона "известных" портов (0-1023).
+    description: Генерирует случайные номера портов за пределами диапазона "известных" портов (0-1023).
 
   yaml-prettify:
     title: Форматирование YAML
@@ -234,28 +234,28 @@ tools:
     description: Преобразует команду "docker run" в файл docker-compose.
 
   mac-address-lookup:
-    title: Поиск по MAC-адресу
-    description: Определяет производителя устройства по его MAC-адресу.
+    title: Поиск по MAC адресу
+    description: Определяет производителя устройства по его MAC адресу.
 
   mime-types:
-    title: MIME-типы
-    description: Конвертирует MIME-типы в расширения файлов и наоборот.
+    title: MIME типы
+    description: Конвертирует MIME типы в расширения файлов и наоборот.
 
   toml-to-json:
     title: Конвертер TOML в JSON
     description: Преобразует TOML в JSON.
 
   lorem-ipsum-generator:
-    title: Генератор Lorem Ipsum
-    description: Генерирует текст-заполнитель для макетов и дизайнов.
+    title: Генератор текста заполнителя
+    description: Генерирует текст заполнитель для макетов и дизайнов.
 
   qrcode-generator:
-    title: Генератор QR-кодов
-    description: Создаёт QR-коды для URL или текста с настройкой цветов.
+    title: Генератор QR кодов
+    description: Создаёт QR коды для URL или текста с настройкой цветов.
 
   wifi-qrcode-generator:
-    title: Генератор QR-кодов для Wi-Fi
-    description: Создаёт QR-коды для быстрого подключения к Wi-Fi.
+    title: Генератор QR кодов для WiFi
+    description: Создаёт QR-коды для быстрого подключения к WiFi.
 
   xml-formatter:
     title: Форматирование XML
@@ -270,20 +270,20 @@ tools:
     description: Вычисляет права доступа в формате chmod.
 
   rsa-key-pair-generator:
-    title: Генератор RSA-ключей
-    description: Создаёт новую пару RSA-ключей (приватный и публичный ключи в PEM-формате).
+    title: Генератор RSA ключей
+    description: Создаёт новую пару RSA ключей (приватный и публичный ключи в PEM формате).
 
   html-wysiwyg-editor:
-    title: WYSIWYG HTML-редактор
-    description: Онлайн-редактор с визуальным интерфейсом, генерирующий HTML-код.
+    title: Визуальный редактор HTML
+    description: Онлайн редактор с визуальным интерфейсом, генерирующий HTML код.
 
   yaml-to-toml:
     title: Конвертер YAML в TOML
     description: Преобразует YAML в TOML.
 
   mac-address-generator:
-    title: Генератор MAC-адресов
-    description: Генерирует случайные MAC-адреса с возможностью выбора регистра.
+    title: Генератор MAC адресов
+    description: Генерирует случайные MAC адреса с возможностью выбора регистра.
 
   json-diff:
     title: Сравнение JSON
@@ -302,11 +302,11 @@ tools:
     description: Проверяет, разбирает и форматирует номера телефонов.
 
   ipv4-subnet-calculator:
-    title: Калькулятор IPv4-подсетей
-    description: Анализирует IPv4 CIDR-блоки и предоставляет информацию о подсети.
+    title: Калькулятор IPv4 подсетей
+    description: Анализирует IPv4 CIDR блоки и предоставляет информацию о подсети.
 
   og-meta-generator:
-    title: Генератор Open Graph-метатегов
+    title: Генератор Open Graph метатегов
     description: Создаёт метатеги для соцсетей и Open Graph.
 
   ipv6-ula-generator:
@@ -354,8 +354,8 @@ tools:
     description: Создаёт уникальные 128-битные идентификаторы (UUID).
 
   ipv4-address-converter:
-    title: Конвертер IPv4-адресов
-    description: Преобразует IPv4-адреса в десятичный, двоичный и другие форматы.
+    title: Конвертер IPv4 адресов
+    description: Преобразует IPv4 адреса в десятичный, двоичный и другие форматы.
 
   text-statistics:
     title: Статистика текста
@@ -363,7 +363,7 @@ tools:
 
   text-to-nato-alphabet:
     title: Текст в фонетический алфавит NATO
-    description: Преобразует текст в фонетический алфавит NATO (например, "A" → "Alpha").
+    description: Преобразуйте текст в фонетический алфавит NATO.
 
   basic-auth-generator:
     title: Генератор Basic Auth
