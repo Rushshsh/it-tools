@@ -215,7 +215,7 @@ tools:
 
   numeronym-generator:
     title: Генератор нумеронимов
-    description: Сокращает слова, заменяя часть букв числом (например, "internationalization" → "i18n").
+    description: Нумероним — это слово, где для образования аббревиатуры используется число. Например, "i18n" — это нумероним слова "internationalization", где 18 обозначает количество букв между первой и последней буквами слова.
 
   case-converter:
     title: Конвертер регистра
@@ -255,7 +255,7 @@ tools:
 
   wifi-qrcode-generator:
     title: Генератор QR кодов для WiFi
-    description: Создаёт QR-коды для быстрого подключения к WiFi.
+    description: Создаёт QR коды для быстрого подключения к WiFi.
 
   xml-formatter:
     title: Форматирование XML
